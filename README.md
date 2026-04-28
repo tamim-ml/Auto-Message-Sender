@@ -11,6 +11,8 @@ A Flask-based desktop automation tool that sends WhatsApp messages via WhatsApp 
 ## Installation
 
 ```bash
+git clone https://github.com/tamim-ml/Auto-Message-Sender.git
+cd Auto-Message-Sender
 pip install -r requirements.txt
 python app.py
 ```
